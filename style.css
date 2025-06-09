@@ -9,15 +9,15 @@ body {
   color: #666;
 }
 .pimg1 {
-  background-image: url(images/munnar1.jpeg);
+  background-image: url(munnar1.jpeg);
   min-height: 100%;
 }
 .pimg2 {
-  background-image: url(images/munnar2.jpeg);
+  background-image: url(munnar2.jpeg);
   min-height: 400px;
 }
 .pimg3 {
-  background-image: url(images/munnar3.jpeg);
+  background-image: url(munnar3.jpeg);
   min-height: 400px;
 }
 .pimg1,
